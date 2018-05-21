@@ -1,0 +1,38 @@
+
+.text{
+    font-family: Arial, 'Times New Roman';
+    font-size: 20px;
+    color: #000;
+    font-weight: normal;
+}
+
+.h1{
+    font-family: Arial,'Times New Roman';
+    color: #000;
+    font-size: 30px;
+    font-weight: 800; 
+    margin-left: 480px;
+}
+
+.h2{
+    font-family:Arial,'Times New Roman';
+    color: #000000;
+    font-size: 25px;
+    font-weight: 800;
+    margin-left: 480px;
+}
+
+.hyperlink{
+    font-family: 'Times New Roman',Arial;
+    font-size: 25px;
+    color: #000;
+    font-weight: bold;
+    margin-left: 250px;
+}
+
+.title{
+    font-family: 'Comic Sans MS', 'Times New Roman';
+    font-size: large;
+    color: #000;
+    font-weight: normal;
+}
